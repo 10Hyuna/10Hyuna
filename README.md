@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm a junior developer hoping to become a backend developer. 🌱
+
+Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
+
+💪 Skills
+
 
 <!--
 **10Hyuna/10Hyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
