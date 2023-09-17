@@ -15,7 +15,8 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Hyuna&layout=compact)](https://github.com/10Hyuna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Hyuna&layout=compact)](https://github.com/10Hyuna/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10Hyuna&show_icons=true&theme=radical)
+
 
 
 <!--
