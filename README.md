@@ -9,6 +9,8 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20Hyuna&fontSize=70)
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
 
 <!--
 **10Hyuna/10Hyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
