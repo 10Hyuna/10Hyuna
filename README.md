@@ -21,10 +21,6 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </div>
 
-
-<!--
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
--->
 <a href="https://github.com/10Hyuna/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width=51% />
 </a>
