@@ -24,3 +24,4 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Hyuna&layout=compact)](https://github.com/10Hyuna/github-readme-stats)
+<img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
