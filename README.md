@@ -16,7 +16,6 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 
 #### <div align=center>:muscle: **Skill**</div>
 
-</div>
 
 <div align=center><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -24,4 +23,6 @@ Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Hyuna&layout=compact)](https://github.com/10Hyuna/github-readme-stats)
-<img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
+</div>
