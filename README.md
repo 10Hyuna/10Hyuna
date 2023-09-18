@@ -1,12 +1,3 @@
-<!--
-### Hi there 👋 I'm a junior developer hoping to become a backend developer. 🌱
-
-Hi there! 👋 I'm a junior developer hoping to become a backend developer.🌱
-
-💪 Skills
-
--->
-
 <div align=center>
 <br><br><br><br>
 
