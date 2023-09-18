@@ -14,4 +14,9 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10Hyuna&theme=react-dark&bg_color=20232a&hide_border=true&line=6495ED&color=6495ED" width=95%/>
 </a>
 
+<br><br><br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimha105)](https://solved.ac/kimha105)
+
 </div>
