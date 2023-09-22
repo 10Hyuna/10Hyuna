@@ -11,7 +11,7 @@
  <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width=49% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=10Hyuna&theme=react&bg_color=FAF0E6&hide_border=true&line=F8F8FF&color=F8F8FF" width=95%/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=10Hyuna&theme=react&bg_color=F8F8FF&hide_border=true&line=FAF0E6&color=FAF0E6" width=95%/>
 </a>
 
 <br><br><br>
