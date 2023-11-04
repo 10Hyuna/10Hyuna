@@ -6,10 +6,10 @@
 
 </a>
 <a href="https://github.com/10Hyuna/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/overview.svg" width=49% />
+ <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/overview.svg" width=48% />
 </a>
 <a href="https://github.com/10Hyuna/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width=49% />
+ <img src="https://raw.githubusercontent.com/10Hyuna/github-stats-transparent/output/generated/languages.svg" width=51% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10Hyuna&theme=react&bg_color=20232a&hide_border=true&line=6495ED&color=6495ED" width=95%/>
